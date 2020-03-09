@@ -15,6 +15,7 @@ CUSP team will overlay data sets (venue map, mobility patterns from taxi, ridesh
 #### Thoughts
 
 * Density plot of venues (to obscure actual specific locations, preserve anonymity)
+  * terminology: isarithmic? isopleth?
   * Using Seaborn: https://python-graph-gallery.com/1136-2/
   * 2d contour w/ marginal plots: https://python-graph-gallery.com/82-marginal-plot-with-seaborn/
   * 2D hist/binnings: https://jakevdp.github.io/PythonDataScienceHandbook/04.05-histograms-and-binnings.html
