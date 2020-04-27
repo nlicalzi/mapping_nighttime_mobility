@@ -22,3 +22,13 @@ CUSP team will overlay data sets (venue map, mobility patterns from taxi, ridesh
 * Network analysis for walkshed from subway lines/stops and bus lines/stops
   * https://www.baruch.cuny.edu/confluence/display/geoportal/NYC+Mass+Transit+Spatial+Layers
   * OSMnx isochrones: https://geoffboeing.com/2017/08/isochrone-maps-osmnx-python/
+
+
+
+## 3/24 Call
+
+* Nothing nightlife-relief specific yet in Berlin, just general biz loans and relief
+* Vibelab actions:
+  * www.nightlife.org blog
+  * www.unitedwestream.berlin
+  * whatsapp group w/ int'l players and orgs
