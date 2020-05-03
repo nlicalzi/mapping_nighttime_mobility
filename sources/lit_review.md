@@ -63,6 +63,10 @@
     * Invented by Tobler (1979)
     * Each iteration tries to improve the smoothness of adjacent target zone values across study area by adjusting the allocation to each target zone, whilst preserving the target zone total (also referred to as mass or volume), using the weighted average of target zone nearest neighbours.
   * "Dasymetric approaches can either identify areas to include/exclude from the interpolation process. Population data, for example, are excluded from nonresidential areas. [...] The simplest dasymetric approach is to create binary masks of areas that are included or excluded from the interpolation process."
+* "Cartograms, hexograms, and regular grids: Minimising misrepresentation in spatial data visualizations" (Langton & Solymosi, 2019) https://doi.org/10.1177/2399808319873923
+  * "Irregularly shaped polygons and large differences in the sizes of areas being mapped can introduce misrepresentation."
+  * "Census data in England and Wales, for instance, are published at spatial scales designed to be uniform by population (e.g. Lower Super Output Area, a census block unit in England and Wales). Consequently, sparsely populated areas dominate visualisations at the expense of those that are densely populated."
+* "Analysis of Traffic Crashes Involving Pedestrians Using Big Data: Investigation of Contributing Factors and Identification of Hotspots" (Xie, Ozbay, Kurkcu, & Yang, 2017) https://doi.org/10.1111/risa.12785
 
 
 
