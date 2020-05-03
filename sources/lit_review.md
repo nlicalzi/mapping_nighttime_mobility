@@ -47,6 +47,17 @@
   * "Another difficulty associated with ZIP code areas is the significant variation in geographic extent [...] the average size of a ZIP code area in Wyoming is (1,430 square kilometers), while the average size of a ZIP code area in New Jersey is 12.8 km2 [...] As a result, ZIP codes can range in size from a single building to a delivery zone spanning hundreds of square miles and crossing several political jurisdictions."
   * "**ZCTAs** can be ***discontiguous*** [...] The lack of spatial contiguity can have a dramatic impact on spatial statistical analysis, particularly if ZCTAs with a common identifier are split into different non-adjacent polygons."
 * "Dasymetric Mapping and Areal Interpolation: Implementation and Evaluation" (Eicher & Brewer, 2001) https://doi.org/10.1559/152304001782173727
+  * "Dasymetric maps display statistical data in meaningful spatial zones... and can be preferable to choropleth maps that show data by enumeration zones, because dasymetric zones more accurately represent underlying data distributions.
+    * So we'd essentially be making the maps dasymetric by assuming where the night time transit trips are going to, based on a given variable (residential density? commercial density? open hours?) http://wiki.gis.com/wiki/index.php/Dasymetric_map
+  * "Consistent with their original purpose, dasymetric maps of population are still the most common type found today."
+  * "**Areal interpolation** is the process of transferring spatial data from one set of units to another and is often used to compare multiple datasets, each collected using different enumeration units... Areal interpolation may be used to transfer all data to a common set of enumeration units to permit efficient comparison and analysis."
+  * "Many areal interpolation methods can be incorporated into dasmetric mapping methods to improve the detail of a choropleth map below the level of the enumeration unit. The primary difference between the two approaches is that **dasmetric mapping omits** the final step of **reaggregating** to a preferred enumeration unit type."
+  * "The term 'dasymetric' could be used to describe most forms of areal interpolation, especially intelligent areal interpolation methods. These techniques build from Wright's (1936) idea of reassigning data beteen units, and they incorporate his approach of using additional information to perform this operation. Chrisman (1998) suggest that Wright's technique was actually a form of areal interpolation."
+  * "Though the traditional limiting variable method (P3) is over a half-century old (Wright 1936), we have shown that it can be implemented in a GIS to produce accurate dasymetric maps."
+* "Because Muncie's Densities Are Not Manhattan's: Using Geographical Weighting in the EM Algorithm for Areal Interpolation" (Schroeder & Van Riper, 2013) https://doi.org/10.1111/gean.12014
+  * "Presents a geographically weighted expectation‐maximization (GWEM) dasymetric interpolation algorithm. Their approach expands existing EM algorithms by introducing the benefits of geographically weighted regression (GWR), which allows the densities of different control units to have a different ratio among all source units."
+  * "Schroeder and Van Riper use their GWEM algorithm to interpolate historical 1980 census data backward to 1970 data with land use and land cover data as control units. It achieves better accuracy than that reported in earlier studies."
+* 
 
 
 
