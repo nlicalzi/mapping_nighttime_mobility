@@ -22,6 +22,9 @@ CUSP team will overlay data sets (venue map, mobility patterns from taxi, ridesh
 * Network analysis for walkshed from subway lines/stops and bus lines/stops
   * https://www.baruch.cuny.edu/confluence/display/geoportal/NYC+Mass+Transit+Spatial+Layers
   * OSMnx isochrones: https://geoffboeing.com/2017/08/isochrone-maps-osmnx-python/
+* Aggregate PLUTO statistics by hexbin
+  * Built square footage, both commercial and residential
+  * Land use (resi, commercial, industrial)
 
 
 
@@ -32,3 +35,6 @@ CUSP team will overlay data sets (venue map, mobility patterns from taxi, ridesh
   * www.nightlife.org blog
   * www.unitedwestream.berlin
   * whatsapp group w/ int'l players and orgs
+
+
+
