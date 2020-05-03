@@ -57,7 +57,12 @@
 * "Because Muncie's Densities Are Not Manhattan's: Using Geographical Weighting in the EM Algorithm for Areal Interpolation" (Schroeder & Van Riper, 2013) https://doi.org/10.1111/gean.12014
   * "Presents a geographically weighted expectation‐maximization (GWEM) dasymetric interpolation algorithm. Their approach expands existing EM algorithms by introducing the benefits of geographically weighted regression (GWR), which allows the densities of different control units to have a different ratio among all source units."
   * "Schroeder and Van Riper use their GWEM algorithm to interpolate historical 1980 census data backward to 1970 data with land use and land cover data as control units. It achieves better accuracy than that reported in earlier studies."
-* 
+* "Spatial interpolation using areal features: A review of methods and opportunities using new forms of data with coded illustrations" (Comber & Zeng, 2019) https://doi.org/10.1111/gec3.12465
+  * "Choices for areal interpolation are limited if the source zones and their attributes are the only information available. [... The areal weighting approach] allocates the source zone attributes proportionately to the target zones based on the area of their intersection."
+  * "[Pycnophylactic interpolation] iteratively interpolates the source zone attribute to the target zones in order to avoid sharp discontinuities between neighbouring target zones aims, whilst preserving the overall mass or volume of the counts in the source zones."
+    * Invented by Tobler (1979)
+    * Each iteration tries to improve the smoothness of adjacent target zone values across study area by adjusting the allocation to each target zone, whilst preserving the target zone total (also referred to as mass or volume), using the weighted average of target zone nearest neighbours.
+  * "Dasymetric approaches can either identify areas to include/exclude from the interpolation process. Population data, for example, are excluded from nonresidential areas. [...] The simplest dasymetric approach is to create binary masks of areas that are included or excluded from the interpolation process."
 
 
 
