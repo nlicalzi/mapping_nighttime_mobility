@@ -44,9 +44,9 @@
   * "ZIP codes are not attributed to space in general, but rather to roads, post offices, and other facilities within the U.S. postal system."
   * "In large part, the tiling of the United States with ZIP code areas has been accomplished by various private data vendors. More recently, the U.S. Census Bureau has produced its own ZIP code topology for area based representations – ZIP Code Tabulation Areas (ZCTAs)."
   * "It is not uncommon for postal delivery routes to be realigned or for ZIP codes to be split. More importantly, ZIP codes can be discontinued, added or expanded between months/years. "
-  * "Another difficulty associated with ZIP code areas is the significant variation in geographic extent [...] the average size of a ZIP code area in Wyoming is (1,430 square kilometers), while the average size of a ZIP code area in New Jersey is 12.8 km2 [...] As a result, ZIP codes can range in size from a single building to a delivery zone spanning hundreds of square miles and crossing several political jurisdictions"
-
-
+  * "Another difficulty associated with ZIP code areas is the significant variation in geographic extent [...] the average size of a ZIP code area in Wyoming is (1,430 square kilometers), while the average size of a ZIP code area in New Jersey is 12.8 km2 [...] As a result, ZIP codes can range in size from a single building to a delivery zone spanning hundreds of square miles and crossing several political jurisdictions."
+  * "**ZCTAs** can be ***discontiguous*** [...] The lack of spatial contiguity can have a dramatic impact on spatial statistical analysis, particularly if ZCTAs with a common identifier are split into different non-adjacent polygons."
+* "Dasymetric Mapping and Areal Interpolation: Implementation and Evaluation" (Eicher & Brewer, 2001) https://doi.org/10.1559/152304001782173727
 
 
 
