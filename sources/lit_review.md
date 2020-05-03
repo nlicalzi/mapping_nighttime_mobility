@@ -9,6 +9,13 @@
     * Furthermore, *weekend* rail services are unlikely to significantly address the needs of low-paid night-time workers outside the nightlife or entertainment industries: night-time work in lower-paid sectors such as transport and logistics, health and social care and hospitality (including cleaning) is of course distributed throughout the week.
 * "The impact of opening hours on the equity of individual space–time accessibility" (Delafontaine et al, 2011) https://doi.org/10.1016/j.compenvurbsys.2011.02.005
   * **Goal:** deepen our understanding about the relationship between accessibility, equity and the opening hours of public service facilities on the basis of space–time accessibility measures.
-  * Three approaches based on different equity principles presented to schedule the opening hours of public service facilities: **utilitarian**, **egalitarian**, & **distributive**.
-  * 
-
+    * "Gain insights into how and to what extent equity of individual accessibility to public services can be influenced by amendments to the opening hours of service delivery."
+* "Evaluating the Temporal Organization of Public Service Provision Using Space-Time Accessibility Analysis" (Neutens et al, 2010) https://doi.org/10.2747/0272-3638.31.8.1039
+  * "Using space-time accessibility analysis to explore the extent to which changes in open hours affect the social equity of service provision."
+  * "Our analysis not only demonstrates that access to public services exhibits substantial hour-to-hour and day-to-day variations, but it also shows that individuals with certain personal and household attributes are affected differently by changes to the temporal regime of public service facilities."
+* "Beyond Space (As We Knew It): Toward Temporally Integrated Geographies of Segregation, Health, and Accessibility" (Kwan, 2013) http://dx.doi.org.proxy.library.nyu.edu/10.1080/10.045608.2013.792177
+  * Considering **racial segregation**, **environmental exposure**, and **accessibility** through the lenses of time and human mobility.
+  * Argues for the need to expand our analytical focus from static residential spaces to other relevant places and times in people’s everyday lives.
+  * The places people can reach and at what time they can reach them (individual accessibility) are important determinants of their exposures to various social or environmental influences.
+  * Mobility is an essential element of people’s spatiotemporal experiences, and these complex experiences cannot be fully understood by just looking at where people live.
+* "The sustainable mobility paradigm" (Banister, 2008) https://doi.org/10.1016/j.tranpol.2007.10.005
