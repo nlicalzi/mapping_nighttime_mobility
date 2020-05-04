@@ -38,3 +38,8 @@ CUSP team will overlay data sets (venue map, mobility patterns from taxi, ridesh
 
 
 
+**GENERAL NOTES**
+
+* How does behavior change over time? Small multiple plots / sparklines? Comparisons to other times of day? Basic description of what’s going on? Utility of creating and sharing a dataset? Volume of trips in some mode relative to daytime? Do people in this specific neighborhood use Citibikes at night more than people in this other part of the city?
+* Read policy prescriptions in Creative Footprint report to understand how to communicate takeaways
+

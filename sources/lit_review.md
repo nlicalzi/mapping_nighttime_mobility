@@ -81,3 +81,65 @@ How to formulate an abstract:
 * "The paper is designed as an introduction to...."
 
 * "Our overall aim is to..."
+
+
+
+* Introduction
+  * Motivation for the study
+  * Literature review (comprehensive narrative)
+    * Outline bibliographic / policy context of the problem
+    * Relevant prior achievements and approaches in the field
+* Problem statement
+  * Specific formulation of research question and expected outcomes
+    * Where are the major nightlife areas in the city? How do people reach them? Are there spatial differences in transportation mode preference, or differences based on land use patterns or venue proximity? 
+  * Hypothesis statement? (if appropriate)
+* Data and Methods
+  * detailed description of datasets used, their structure, characteristics, limitations
+  * approaches to take, relevance / adequacy of proposed methodology, feasibility
+    * To answer these questions, we will leverage transportation, built environment, business typology/opening hours, health, and other datasets across varying geographic scopes. We disaggregate them from large, overlapping, and disparate areal units to a standardized hexagonal binning grid using areal interpolation, and then perform a variety of spatial  (autocorrelation, network analysis, etc.) and time-series analyses to enrich the dataset and allow for more varied and comprehensive study. 
+    * Our baseline transportation scheme represents data captured between January and April of 2019, while our expanded COVID focus looks at data captured between the same months but in 2020 instead. Extra attention will be paid to the two week period (beginning Thursday, Feb. 27th) before New York State imposed limits on mass gatherings and ordered all restaurants, bars, and clubs to limit their operations to food takeout and delivery only, to evaluate whether nighttime transportation ridership experienced a disproportionate decrease before daytime usage did, and whether that indicates that nightlife venues have been disproportionately affected and require specific care/attention from the state.
+* Results
+* Updated Research Plan
+  * Gantt chart: important steps, milestones, timeline
+  * encountered / remaining project risks and mitigation strategies
+* Team collaboration statement
+  * Which team members will lead on various aspects of the work
+
+
+
+**LITERATURE REVIEW**
+
+* “Development of a QGIS Plugin to Dasymetric Mapping” (Mieu & Queirós, 2018)
+  * https://scholarworks.umass.edu/foss4g/vol18/iss1/9/
+* “Analysis of Traffic Crashes Involving Pedestrians Using Big Data: Investigation of Contributing Factors and Identification of Hotspots” (Xie, Ozbay, Kurkcu, & Yang, 2017)
+  * http://eds.a.ebscohost.com.proxy.library.nyu.edu/eds/pdfviewer/pdfviewer?vid=1&sid=f31ed58d-2dd8-4a94-a18f-62b59e100f01%40sdc-v-sessmgr02
+* “Functional Zone Based Hierarchical Demand Prediction for Bike System Expansion” (Liu et al, 2017)
+  * https://dl.acm.org/doi/10.1145/3097983.3098180
+* “Environmental determinants of cycling: Not seeing the forest for the trees?” (Nello-Deakin, 2020)
+  * https://www-sciencedirect-com.proxy.library.nyu.edu/science/article/pii/S0966692319309974
+* “Gender differences in a walking environment safety perception: A case study in a small town of Banska Bystrica (Slovakia)” (Risova & Madajova, 2020)
+  * https://www-sciencedirect-com.proxy.library.nyu.edu/science/article/pii/S0966692319310427
+* “Factors influencing mode of transport in older adolescents: a qualitative study” (Simons et al, 2013)
+  * http://eds.a.ebscohost.com.proxy.library.nyu.edu/eds/detail/detail?vid=0&sid=7ef8206a-f48f-446b-8b17-77d93c58ec64%40sessionmgr4008&bdata=JnNpdGU9ZWRzLWxpdmU%3d#AN=23574974&db=mnh
+* “Understanding the Impact of the Modifiable Areal Unit Problem on the Relationship between Active Travel and the Built Environment” (Clark & Scott, 2014)
+  * https://www.jstor.org/stable/26145716?seq=1
+* “Travel and the Built Environment” (Ewing & Cervero, 2010)
+  * https://doi.org/10.1080/01944361003766766
+* “Scale and accessibility: implications for the analysis of land use-travel interaction” (Kwan & Weber, 2008)
+  * https://www.sciencedirect.com/science/article/abs/pii/S0143622807000239
+* “How GIS can help address the uncertain geographic context problem in social science research” (Kwan, 2012)
+  * http://meipokwan.org/Paper/Annals_of_GIS_2012.pdf
+* “The Modifiable Areal Unit Problem” (Openshaw, 1983)
+  * https://www.uio.no/studier/emner/sv/iss/SGO9010/openshaw1983.pdf
+* “Operationalizing the neighborhood effects of the built environment on travel behavior” (Gehrke & Wang, 2020)
+  * [https://doi.org/10.1016/j.jtrangeo.2019.102561](https://doi-org.proxy.library.nyu.edu/10.1016/j.jtrangeo.2019.102561)“...suggests that studies of pedestrian travel should operationalize land use mix at a disaggregate scale.”
+* “Estimating hourly population distribution change at high spatiotemporal resolution in urban areas using geotagged tweets, land use data, and dasymetric maps” (Tsou, Zhang, Nara, & Han 2018)
+  * https://arxiv-org.proxy.library.nyu.edu/abs/1810.06554
+* “Increasing the Accuracy of Urban Population Analysis with Dasymetric Mapping” (Mennis, 2015)
+  * https://www-jstor-org.proxy.library.nyu.edu/stable/26326926
+* “A Quantile Regression Approach to Areal Interpolation” (Cromley, Hanink, & Bentley 2012)
+  * https://www-jstor-org.proxy.library.nyu.edu/stable/23275507
+* “GIS Software to Remodel Population Data Using Dasymetric Mapping Methods” (Sleeter & Gould, 2007)
+  * https://pubs.usgs.gov/tm/tm11c2/tm11c2.pdf
+* “Hexograms: better maps of area based data (Harris, 2017)
+  * https://rstudio-pubs-static.s3.amazonaws.com/342278_51068843182b41ad9e00dfcc35e65247.html
