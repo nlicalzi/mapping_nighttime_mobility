@@ -1,5 +1,7 @@
 ## Literature Review
 
+* "LandScan USA: a high-resolution geospatial and temporal modeling approach for population distribution and dynamics" (Bhaduri, Bright, Coleman, & Urban 2007) https://doi.org/10.1007/s10708-007-9105-9
+  * "At a spatial resolution of 3 arc seconds (~90m), the initial LandScan USA database contains both a nighttime residential as well as a baseline daytime population distribution that incorporates movement of workers and students."
 * "Socio-spatial and temporal dimensions of transport equity for London's night time economy" (McArthur, Robin, Smeds 2019) https://doi.org/10.1016/j.tra.2019.01.024
   * Goal: **inform a more rigorous mode of operationalising transport equity through sustainable and just transport planning.**
     * This paper centres on the recent introduction of Night Tube (London Underground) weekend services along selected routes to support the Night Time Economy (NTE), taking a different perspective on the NTE than most literature published to date, as it focuses on NTE workers.
