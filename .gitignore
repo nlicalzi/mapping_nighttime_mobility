@@ -3,3 +3,4 @@ data/*
 sources/*
 notebooks/.ipynb_checkpoints/*
 .DS_Store*
+data_for_notebooks/*
