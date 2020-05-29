@@ -2,3 +2,4 @@ docs/*
 data/*
 sources/*
 notebooks/.ipynb_checkpoints/*
+.DS_Store*
