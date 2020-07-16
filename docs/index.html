@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Capstone Project</title>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src='https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.js'></script>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.css' rel='stylesheet' />
+  <link rel='stylesheet' href='css/styles.css?v=1.0'>
+</head>
+<body>
+  <div id='canvas'>
+    <div id='map'></div>
+    <div id='charts'>
+      <div id='chart_overlay'>
+        <h2>Click a Hex bin</h2>
+      </div>
+      <div>
+        <p id="text">Hexagon ID: <span id="hexbinid"></span></p>
+        <p id="text">Day Population: <span id="daypop"></span></p>
+        <p id="text">Night Population: <span id="nightpop"></span></p>
+        <p id="text">Number of Venues: <span id="venuecount"></span></p>
+        <p id="text">Commercial GFA: <span id="commGFA"></span>sqft</p>
+        <p id="text">Residential GFA: <span id="resiGFA"></span>sqft</p>
+        <p id="text">Borough: <span id="boro"></span></p>
+      </div>
+      <div id='chart1'></div>
+      <div id='chart2'></div>
+      <div id='chart3'></div>
+      <div id='chart4'></div>
+      <div id='chart5'></div>
+      <div id='chart6'></div>
+    </div>
+  </div>
+
+    <!-- Main JavaScript -->
+  <script src='js/scripts.js'></script>
+</body>
+</html>
