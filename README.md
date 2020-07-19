@@ -1,6 +1,30 @@
 ## Quick Hits for CUSP Capstone
 
-##### Project goals:
+### 7/14 Call
+
+#### Research Questions:
+
+* Where is NYC's nightlife located?
+  * Are there specific clusters? How might we identify them?
+  * Are there any 'surprising' clusters? How might we identify them?
+  * Do identified nightlife clusters relate in anyway to built environment characteristics?
+* What is the relationship between NYC's nightlife and transit mode choice?
+  * Does weather have a greater effect on travel to specific clusters?
+  * Is there a difference in travel levels from week to weekend? From day to night?
+  * Is there a relationship between number of Citibike or MTA stations and the number of venues in a given area? What about the overall pct. of business that are venues?
+* How has COVID affected night-time travel in NYC, w/ specific regard to nightlife activities?
+  * Have some nightlife clusters seen a bigger drop than others? Why might that be?
+  * What is the citywide decrease in transit utilization by mode?
+    * With that baseline decrease established, do certain areas see bigger decreases than the mean for each mode of transit?
+    * Subway ridership per resident
+
+#### Vizzes:
+
+* 
+
+## Previous Notes
+
+##### Original Project goals:
 
 CUSP team will overlay data sets (venue map, mobility patterns from taxi, rideshare, and CitiBike trips, public transportation lines, and ticketing data) to gain an initial understanding of how New Yorkers travel to and from music venues at different times of night. Key questions to answer:
 
