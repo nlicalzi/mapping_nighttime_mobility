@@ -17,8 +17,3 @@
 * Cluster Detection
   * ![outliers_bad](img/outliers_bad.png)
   * ![outliers](img/outliers_good.png)
-
-
-
-Project Website: https://valeriezyy.wixsite.com/capstone
-
